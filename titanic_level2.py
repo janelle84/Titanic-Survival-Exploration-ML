@@ -12,8 +12,8 @@ import math
 import pandas as pd
 from sklearn import preprocessing, linear_model
 
-TRAIN_FILE = 'titanic_data/train.csv'
-TEST_FILE = 'titanic_data/test.csv'
+TRAIN_FILE = 'train.csv'
+TEST_FILE = 'test.csv'
 
 
 def data_preprocess(filename, mode='Train', training_data=None):
