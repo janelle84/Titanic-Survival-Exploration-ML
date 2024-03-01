@@ -1,6 +1,5 @@
 """
 File: titanic_level2.py
-Name: Janelle
 ----------------------------------
 This file builds a machine learning algorithm by pandas and sklearn libraries.
 We use pandas to read in dataset, store data into a DataFrame,
