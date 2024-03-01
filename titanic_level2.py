@@ -91,11 +91,8 @@ def standardization(data, mode='Train'):
 
 def main():
 	"""
-	You should call data_preprocess(), one_hot_encoding(), and
-	standardization() on your training data. You should see ~80% accuracy on degree1;
-	~83% on degree2; ~87% on degree3.
-	Please write down the accuracy for degree1, 2, and 3 respectively below
-	(rounding accuracies to 8 decimal places)
+	Call data_preprocess(), one_hot_encoding(), and
+	standardization() on the training data. 
 	TODO: real accuracy on degree1 -> 80.19662921%
 	TODO: real accuracy on degree2 -> 83.70786517%
 	TODO: real accuracy on degree3 -> 87.64044944%
