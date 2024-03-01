@@ -8,6 +8,6 @@ This repository explores the prediction of Titanic passengers' survival rates th
 - **Level 2 Prediction**: Advanced use of `pandas` and `scikit-learn` for data preprocessing, feature engineering, and employing sophisticated machine learning models.
 
 ## Results
-**Degree 1 Training Acc:** 80.19662921% \n
-**Degree 2 Training Acc:** 83.70786517% \n
-**Degree 3 Training Acc:** 87.64044944% 
+- **Degree 1 Training Acc:** 80.19662921%
+- **Degree 2 Training Acc:** 83.70786517%
+- **Degree 3 Training Acc:** 87.64044944% 
