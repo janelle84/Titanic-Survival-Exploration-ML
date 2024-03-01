@@ -1,19 +1,15 @@
 """
 File: titanic_level1.py
-Name: Janelle
 ----------------------------------
 This file builds a machine learning algorithm from scratch 
-by Python. We'll be using 'with open' to read in dataset,
-store data into a Python dict, and finally train the model and 
-test it on kaggle website. This model is the most flexible among all
-levels. You should do hyper-parameter tuning to find the best model.
+by Python. 
 """
 
 import math
 from util import *
 from collections import defaultdict
-TRAIN_FILE = 'titanic_data/train.csv'
-TEST_FILE = 'titanic_data/test.csv'
+TRAIN_FILE = 'train.csv'
+TEST_FILE = 'test.csv'
 
 
 def data_preprocess(filename: str, data: dict, mode='Train', training_data=None):
