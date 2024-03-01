@@ -3,11 +3,10 @@ File: titanic_level2.py
 Name: Janelle
 ----------------------------------
 This file builds a machine learning algorithm by pandas and sklearn libraries.
-We'll be using pandas to read in dataset, store data into a DataFrame,
+We use pandas to read in dataset, store data into a DataFrame,
 standardize the data by sklearn, and finally train the model and
 test it on kaggle website. Hyper-parameters tuning are not required due to its
 high level of abstraction, which makes it easier to use but less flexible.
-You should find a good model that surpasses 77% test accuracy on kaggle.
 """
 
 import math
